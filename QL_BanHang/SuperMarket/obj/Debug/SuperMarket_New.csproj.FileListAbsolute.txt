@@ -1,0 +1,138 @@
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form1.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Staff.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Admin.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form2.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form3.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.DanhSachSP.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.HoaDonChiTiet.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form4.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddNS.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddHangHoa.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddNCC.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddTK.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.NhapSpChiTiet.resources
+I:\hukjkh\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+I:\hukjkh\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+I:\hukjkh\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csprojAssemblyReference.cache
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddHangHoa.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddNCC.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddNS.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddTK.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Admin.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.DanhSachSP.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form1.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form2.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form3.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form4.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.HoaDonChiTiet.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.NhapSpChiTiet.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Staff.resources
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csproj.GenerateResource.cache
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csproj.CoreCompileInputs.cache
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+I:\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddHangHoa.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddNCC.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddNS.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddTK.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Admin.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.DanhSachSP.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form1.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form2.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form3.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.HoaDonChiTiet.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.NhapSpChiTiet.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Staff.resources
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\bin\Debug\Data\SupperMarkett.mdf
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\bin\Debug\Dapper.dll
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\bin\Debug\Dapper.xml
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csproj.CopyComplete
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\admin\source\repos\hukjkh\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csprojAssemblyReference.cache
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\bin\Debug\Data\SupperMarkett_log.ldf
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\bin\Debug\Data\SupperMarkett.mdf
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\bin\Debug\Dapper.dll
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\bin\Debug\Dapper.xml
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csprojAssemblyReference.cache
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Admin.resources
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.LoginForm.resources
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.BanHangForm.resources
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.QuanKhoForm.resources
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csproj.GenerateResource.cache
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csproj.CoreCompileInputs.cache
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket_New.csproj.CopyComplete
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+D:\HK1N4\Thực tập nhóm\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csprojAssemblyReference.cache
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.Admin.resources
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.LoginForm.resources
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.BanHangForm.resources
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.QuanKhoForm.resources
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.GenerateResource.cache
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.CoreCompileInputs.cache
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.exe
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.pdb
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\bin\Debug\Data\SupperMarkett_log.ldf
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\bin\Debug\Data\SupperMarkett.mdf
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.exe.config
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.exe
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.pdb
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\bin\Debug\Dapper.dll
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\bin\Debug\Dapper.xml
+D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.CopyComplete
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\bin\Debug\Data\SupperMarkett_log.ldf
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\bin\Debug\Data\SupperMarkett.mdf
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\bin\Debug\Dapper.dll
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\bin\Debug\Dapper.xml
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csprojAssemblyReference.cache
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.Admin.resources
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.LoginForm.resources
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.BanHangForm.resources
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.QuanKhoForm.resources
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.GenerateResource.cache
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.CoreCompileInputs.cache
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.CopyComplete
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\lehoc\OneDrive\Desktop\QL_BanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.pdb
+F:\QL_BanHang\SuperMarket\bin\Debug\Data\SupperMarkett_log.ldf
+F:\QL_BanHang\SuperMarket\bin\Debug\Data\SupperMarkett.mdf
+F:\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.exe.config
+F:\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.exe
+F:\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.pdb
+F:\QL_BanHang\SuperMarket\bin\Debug\Dapper.dll
+F:\QL_BanHang\SuperMarket\bin\Debug\Dapper.xml
+F:\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.Admin.resources
+F:\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.LoginForm.resources
+F:\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.BanHangForm.resources
+F:\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+F:\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.GenerateResource.cache
+F:\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.CoreCompileInputs.cache
+F:\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.CopyComplete
+F:\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.exe
+F:\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.pdb
